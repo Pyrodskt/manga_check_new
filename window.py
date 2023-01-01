@@ -1,5 +1,4 @@
 from tkinter import Tk, Frame, Button, Entry, Label, ttk, END, Toplevel
-from processing import Processing
 from mangas import Mangas, Manga
 import json
 class Window:
@@ -144,7 +143,6 @@ class Rightframe:
         for i in self.window.mangas.mangas:
             if i.title == self.label_title.cget("text"):
                 i.current = self.combobox.get()
-                print(i.current)
         for i in self.window.left_frame.table.selection():
             self.window.left_frame.table.selection_remove(i)
         self.window.left_frame.updateTable()
