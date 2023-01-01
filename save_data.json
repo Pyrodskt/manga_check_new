@@ -1,0 +1,23 @@
+{
+    "datas" : [
+        {
+            "title": "One punch Man",
+            "url": "https://www.japscan.me/manga/one-punch-man/",
+            "current": "",
+            "list": []
+        },
+        {
+            "title": "The World After the Fall",
+            "url": "https://www.webtoons.com/en/action/the-world-after-the-fall/list?title_no=4011",
+            "current": "Episode 20",
+            "list": []
+        },
+        {
+            "title": "The Rebirth of an 8th-Circled Mage",
+            "url": "https://mangarockteam.com/manga/the-rebirth-of-an-8th-circled-mage/",
+            "current": "",
+            "list": []
+        }
+
+    ]
+}
